@@ -32,7 +32,7 @@
 
 ## 目次
 
-以下の目次は、添付の `README.md` をもとに作成しました。citeturn0file0
+以下の目次は、添付の `README.md` をもとに作成しました。
 
 1. [**Step 1: MCP/MCPサーバーとは何か？どんなことができるのか？**](./docs/step1/README.md)  
   1.1 MCP（Model Context Protocol）  
